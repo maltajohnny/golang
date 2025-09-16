@@ -1,0 +1,26 @@
+# Binários do Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# Arquivos de build locais
+*.out
+
+# Diretórios de build
+/bin/
+/build/
+
+# Dependências (se você usar `go mod vendor`)
+/vendor/
+
+# Arquivos de IDE/Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Mac/Linux específicos
+.DS_Store
