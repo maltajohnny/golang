@@ -39,8 +39,8 @@ func main() {
 	resultadoSoma, resultadoSubtracao := calculosMatematicos(10, 15)
 	fmt.Println(resultadoSoma, resultadoSubtracao)
 
+	
 	// caso queira que exiba somente um resultado eu coloco um underline no lugar de resultadoSubtracao e não passo ele no print.
-
 	
 
 }
